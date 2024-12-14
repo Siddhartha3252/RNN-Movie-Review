@@ -1,7 +1,5 @@
-# RNN-Movie-Review -----  # Deployed on streamlit.app ---- [link](https://RNN-Movie-Review-ugb8a3ghf3cg7nywefudrk.streamlit.app/)
+# RNN-Movie-Review - # Deployed on streamlit.app - [link](https://RNN-Movie-Review-ugb8a3ghf3cg7nywefudrk.streamlit.app/)
 
 # Screen Shots
-
-![image](https://github.com/user-attachments/assets/19168c12-bf33-42d4-8491-371a0d7a8b16)
-![image](https://github.com/user-attachments/assets/68b3eebf-e363-40be-83dc-e777fff5dd1e)
-
+![Screenshot 2024-12-14 171804](https://github.com/user-attachments/assets/df3ed752-6c51-4be4-8c8b-ae2a9a29265a)
+![Screenshot 2024-12-14 172016](https://github.com/user-attachments/assets/c78835c0-31d5-4494-9abe-a7d44e5b69bb)
